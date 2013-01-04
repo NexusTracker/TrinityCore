@@ -1,0 +1,3 @@
+UPDATE creature_template
+SET mindmg='44', maxdmg='76', attackpower='96', Health_mod='0.2'
+WHERE entry='8996'
